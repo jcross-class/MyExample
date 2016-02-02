@@ -1,3 +1,2 @@
 This is file A!
 Add another line!
-This is the 3rd line of text.
